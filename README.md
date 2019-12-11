@@ -46,12 +46,6 @@ There is no manual maintenance cost.
 
 The plugin uses officially supported "plugin outlets" to add labels to the front-end at specific locations. There is little risk of the labels being misplaced or breaking entirely over time through Discourse updates.
 
-The plugin only affects the front-end of the application.
+The plugin only affects the front-end of the application, specifically a small portion of user profiles and user cards.
 
 The profile link is formed using only the user's forum username, which is equivalent to their (past or present) Roblox username, due to SSO configuration.
-
----
-
-## Configuration
-
-The profile links cannot be turned off without fully uninstalling the plugin.
