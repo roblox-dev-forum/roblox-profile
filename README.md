@@ -7,10 +7,13 @@ This plugin adds Roblox profile links to Developer Forum user profiles.
 ## Features
 
 - Adds a link to a user's Roblox profile on the following places:
-    - Forum profile (i.e. `https://devforum.roblox.com/u/Roblox`):
-    <img src=docs/roblox-profile-profile.png width=75%>
-    - User cards that appear when tapping on a user's icon or name on posts:
-    <img src=docs/roblox-profile-usercard.png width=75%>
+
+  - Forum profile (i.e. `https://devforum.roblox.com/u/Roblox`):
+  <img src=docs/roblox-profile-profile.png width=60%>
+
+  - User cards that appear when tapping on a user's icon or name on posts:
+  <img src=docs/roblox-profile-usercard.png width=60%>
+
 - The link will be in the format of: `https://www.roblox.com/users/profile?username=Roblox`
 
 ---
