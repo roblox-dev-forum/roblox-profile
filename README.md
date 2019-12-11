@@ -28,6 +28,8 @@ Users are easily able to discover the Roblox profile of other users, without hav
 
 Engineers are easily able to find the Roblox profile of a user when investigating bug reports and feature requests.
 
+Forum moderation is easily able to inspect the Roblox profile of a user when investigating suspicious behavior.
+
 ### Resources
 
 The plugin uses information already available on the client to show the labels. There is no performance impact on the forum.
