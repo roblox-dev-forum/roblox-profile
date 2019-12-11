@@ -36,7 +36,7 @@ While these links do make for increased traffic from the forum to Roblox user pr
 
 ### Maintenance
 
-There is no maintenance cost for Developer Relations or Engineering teams.
+There is no manual maintenance cost.
 
 ---
 
