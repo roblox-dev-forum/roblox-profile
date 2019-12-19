@@ -1,1 +1,6 @@
-<div><img src="https://roblox.com/favicon.ico" style="width: 12px"> <a href="https://www.roblox.com/users/profile?username={{user.username}}">Roblox Profile</a></div>
+{{#if siteSettings.roblox_profile_enabled}}
+    <div>
+        <img src="https://roblox.com/favicon.ico" style="width: 12px">
+        <a href="https://www.roblox.com/users/profile?username={{user.username}}">Roblox Profile</a>
+    </div>
+{{/if}}
