@@ -49,3 +49,5 @@ The plugin uses officially supported "plugin outlets" to add labels to the front
 The plugin only affects the front-end of the application, specifically a small portion of user profiles and user cards.
 
 The profile link is formed using only the user's forum username, which is equivalent to their (past or present) Roblox username, due to SSO configuration.
+
+#### Copyright 2020 Roblox Corporation
